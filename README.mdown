@@ -2,4 +2,5 @@
 
 github在markdown里不支持LaTeX公式实在有点蛋疼。先弄成HTML放在github.io作静态页面吧。这是第一篇[神经网络的输出单元](https://simon-max.github.io/machine-learning-Note/output_unit_of_nn.html),算作是博客吧。之后再写个主页。
 <div align = right>2017-8-24</div>
-----
+
+-----------------
